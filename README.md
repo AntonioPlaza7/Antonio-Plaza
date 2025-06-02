@@ -18,17 +18,43 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
 * **Lenguajes:** Java, C#, HTML, XML
 * **Bases de Datos:** MySQL, PostgreSQL, SQLite
 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![XML](https://img.shields.io/badge/XML-000?style=for-the-badge&logo=html5&logoColor=white) 
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
 #### 🛠️ Frameworks y Herramientas de Desarrollo
 * **Desarrollo UI/UX:** Unity (para desarrollo de videojuegos/aplicaciones 3D), Avalonia (UI multiplataforma), Justinmind (prototipado)
 * **Entornos/IDEs:** Android Studio, Eclipse, IntelliJ IDEA, VS Code, SceneBuilder
 * **Otros:** Odoo (ERP), Docker (conocimientos básicos de contenedores)
 
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    
+![Odoo](https://img.shields.io/badge/Odoo-7C235A?style=for-the-badge&logo=odoo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 #### ⚙️ Control de Versiones y Metodología
 * **Control de Versiones:** Git, GitHub
 * **Metodologías Ágiles:** Scrum
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+    
+![Scrum](https://img.shields.io/badge/Scrum-007396?style=for-the-badge&logoColor=white)
+
 #### 🐧 Sistemas Operativos
 * **Linux (Ubuntu)**, Windows
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
