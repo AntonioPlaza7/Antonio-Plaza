@@ -63,6 +63,7 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
 Aquí podrás explorar algunos de mis proyectos personales y académicos. Son una muestra de lo que he estado aprendiendo y creando. ¡Echa un vistazo a mis repositorios!
 
 * https://github.com/AntonioPlaza7/TFG
+* https://github.com/AntonioPlaza7/Practicas-CodeArts-Solutions
 
 
 
