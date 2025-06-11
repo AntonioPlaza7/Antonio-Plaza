@@ -66,6 +66,7 @@ Aquí podrás explorar algunos de mis proyectos personales y académicos. Son un
 * TFG DAM: https://github.com/AntonioPlaza7/TFG
 * Práctias de empresa en CodeArts Solutions: https://github.com/AntonioPlaza7/Practicas-CodeArts-Solutions
 * Proyectos académicos DAM:
+  
   Dark-Light-Theme (Kotlin): https://github.com/AntonioPlaza7/Dark-Light-Theme
   Aplicación Android; Reproductor de Audio Básico (Kotlin): https://github.com/AntonioPlaza7/Play-Stop
   Aplicación de Reserva de Eventos con JavaFX y FXML (Java): https://github.com/AntonioPlaza7/FormularioReservas
