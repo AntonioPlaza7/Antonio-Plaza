@@ -15,11 +15,12 @@ Aunque mis conocimientos son actualmente básicos, estoy comprometido con el apr
 Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy familiarizado:
 
 #### 📊 Lenguajes y Bases de Datos
-* **Lenguajes:** Java, C#, HTML, XML
+* **Lenguajes:** Java, C#, Kotlin, HTML, XML
 * **Bases de Datos:** MySQL, PostgreSQL, SQLite
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-000?style=for-the-badge&logo=html5&logoColor=white) 
 
@@ -62,10 +63,15 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
 
 Aquí podrás explorar algunos de mis proyectos personales y académicos. Son una muestra de lo que he estado aprendiendo y creando. ¡Echa un vistazo a mis repositorios!
 
-* https://github.com/AntonioPlaza7/TFG
-* https://github.com/AntonioPlaza7/Practicas-CodeArts-Solutions
-
-
+* TFG DAM: https://github.com/AntonioPlaza7/TFG
+* Práctias de empresa en CodeArts Solutions: https://github.com/AntonioPlaza7/Practicas-CodeArts-Solutions
+* Proyectos académicos DAM:
+  Dark-Light-Theme (Kotlin): https://github.com/AntonioPlaza7/Dark-Light-Theme
+  Aplicación Android; Reproductor de Audio Básico (Kotlin): https://github.com/AntonioPlaza7/Play-Stop
+  Aplicación de Reserva de Eventos con JavaFX y FXML (Java): https://github.com/AntonioPlaza7/FormularioReservas
+  Manipulación Gráfica con OpenJFX y FXML (Java): https://github.com/AntonioPlaza7/MovingShapes
+  Gestión de Clientes con Historial de Visitas en ObjectDB (Java): https://github.com/AntonioPlaza7/HistoricoVisitas
+  Gestión de Alumnos con Hibernate y MySQL (Java): https://github.com/AntonioPlaza7/GestionAlumnos
 
 ---
 
