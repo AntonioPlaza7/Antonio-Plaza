@@ -63,16 +63,17 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
 
 Aquí podrás explorar algunos de mis proyectos personales y académicos. Son una muestra de lo que he estado aprendiendo y creando. ¡Echa un vistazo a mis repositorios!
 
-* TFG DAM: https://github.com/AntonioPlaza7/TFG
-* Práctias de empresa en CodeArts Solutions: https://github.com/AntonioPlaza7/Practicas-CodeArts-Solutions
-* Proyectos académicos DAM:
-  
-  Dark-Light-Theme (Kotlin): https://github.com/AntonioPlaza7/Dark-Light-Theme
-  Aplicación Android; Reproductor de Audio Básico (Kotlin): https://github.com/AntonioPlaza7/Play-Stop
-  Aplicación de Reserva de Eventos con JavaFX y FXML (Java): https://github.com/AntonioPlaza7/FormularioReservas
-  Manipulación Gráfica con OpenJFX y FXML (Java): https://github.com/AntonioPlaza7/MovingShapes
-  Gestión de Clientes con Historial de Visitas en ObjectDB (Java): https://github.com/AntonioPlaza7/HistoricoVisitas
-  Gestión de Alumnos con Hibernate y MySQL (Java): https://github.com/AntonioPlaza7/GestionAlumnos
+* **TFG DAM:** [Mi Proyecto de Fin de Grado (TFG)](https://github.com/AntonioPlaza7/TFG)
+* **Prácticas de empresa en CodeArts Solutions:** [Proyectos de Prácticas](https://github.com/AntonioPlaza7/Practicas-CodeArts-Solutions)
+
+#### Proyectos Académicos DAM:
+
+* **Dark-Light-Theme (Kotlin):** [Aplicación Android: Saludo Personalizado y Modo Oscuro](https://github.com/AntonioPlaza7/Dark-Light-Theme)
+* **Reproductor de Audio Básico (Kotlin):** [Aplicación Android: Reproductor de Audio Básico](https://github.com/AntonioPlaza7/Play-Stop)
+* **FormularioReservas (Java):** [Aplicación de Reserva de Eventos con JavaFX y FXML](https://github.com/AntonioPlaza7/FormularioReservas)
+* **MovingShapes (Java):** [Manipulación Gráfica con OpenJFX y FXML](https://github.com/AntonioPlaza7/MovingShapes)
+* **HistoricoVisitas (Java):** [Gestión de Clientes con Historial de Visitas en ObjectDB](https://github.com/AntonioPlaza7/HistoricoVisitas)
+* **GestionAlumnos (Java):** [Gestión de Alumnos con Hibernate y MySQL](https://github.com/AntonioPlaza7/GestionAlumnos)
 
 ---
 
