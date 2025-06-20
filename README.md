@@ -4,7 +4,7 @@
 
 ¡Bienvenido/a a mi rincón digital en GitHub!
 
-Soy un apasionado de la tecnología, desde siempre, y por fin puedo desarrollarme laboralmente en este sector. Estoy con muchas ganas de crear y solucionar problemas a través del código, tengo gran capacidad analítica y eficiencia en resolución de problemas. Estoy a punto de finalizar mi **Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)** este **junio de 2025**, lo que me ha proporcionado una base sólida para iniciar mi carrera en el desarrollo de software.
+Soy un apasionado de la tecnología, desde siempre, y por fin puedo desarrollarme laboralmente en este sector. Estoy con muchas ganas de crear y solucionar problemas a través del código, tengo gran capacidad analítica y eficiencia en resolución de problemas. Acabo de finalizar mi **Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)** este **junio de 2025**, lo que me ha proporcionado una base sólida para iniciar mi carrera en el desarrollo de software.
 
 Aunque mis conocimientos son actualmente básicos, estoy comprometido con el aprendizaje continuo y deseando aplicar todo lo aprendido en un entorno profesional. Me encanta la idea de seguir descubriendo nuevas tecnologías y aportar en proyectos innovadores.
 
