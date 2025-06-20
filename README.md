@@ -63,8 +63,8 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
 
 Aquí podrás explorar algunos de mis proyectos personales y académicos. Son una muestra de lo que he estado aprendiendo y creando. ¡Echa un vistazo a mis repositorios!
 
-* **TFG DAM (C#):** [Mi Proyecto de Fin de Grado (TFG)](https://github.com/AntonioPlaza7/TFG)
-* **Prácticas de empresa en CodeArts Solutions (C#):** [Proyectos de Prácticas](https://github.com/AntonioPlaza7/Practicas-CodeArts-Solutions)
+* **TFG DAM (C#, Avalonia, SQLite):** [Mi Proyecto de Fin de Grado (TFG)](https://github.com/AntonioPlaza7/TFG)
+* **Prácticas de empresa en CodeArts Solutions (C#, Unity):** [Proyectos de Prácticas](https://github.com/AntonioPlaza7/Practicas-CodeArts-Solutions)
 
 #### Proyectos Académicos DAM:
 
