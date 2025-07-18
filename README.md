@@ -19,12 +19,13 @@ https://strong-banoffee-037f7b.netlify.app/
 Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy familiarizado:
 
 #### 📊 Lenguajes y Bases de Datos
-* **Lenguajes:** Java, C#, Kotlin, HTML, XML
+* **Lenguajes:** Java, C#, Kotlin, JavaScript, HTML, XML
 * **Bases de Datos:** MySQL, PostgreSQL, SQLite
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-000?style=for-the-badge&logo=html5&logoColor=white) 
 
@@ -33,11 +34,13 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### 🛠️ Frameworks y Herramientas de Desarrollo
-* **Desarrollo UI/UX:** Unity (para desarrollo de videojuegos/aplicaciones 3D), Avalonia (UI multiplataforma), Justinmind (prototipado)
+* **Desarrollo UI/UX:** Unity (para desarrollo de videojuegos/aplicaciones 3D), Avalonia (UI multiplataforma), Justinmind (prototipado), Astro (framework web enfocado en DX y rendimiento con mínimo JavaScript), Tailwind (framework CSS)
 * **Entornos/IDEs:** Android Studio, Eclipse, IntelliJ IDEA, VS Code, SceneBuilder
 * **Otros:** Odoo (ERP), Docker (conocimientos básicos de contenedores)
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
