@@ -3,9 +3,9 @@
 <picture> <align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" width = 250px></picture>
 
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRhMnk2ejZnYWhhMjZrMG50NmM2c2JyaDV5aHViemV0eHBsZ3dpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="50px" height="50px"></img> Desarrollador de Software | Técnico Superior en DAM
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRhMnk2ejZnYWhhMjZrMG50NmM2c2JyaDV5aHViemV0eHBsZ3dpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="60px" height="50px"></img> Desarrollador de Software | Técnico Superior en DAM
 
-¡Bienvenido/a a mi rincón digital en GitHub!
+¡Bienvenido/a a mi rincón digital en GitHub! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw2MDEwNnlhczBicXk1NWJ2Y2lzbmdzYjNjeHFqbXUxYjdobWJybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="15px" height="50px"></img>
 
 Soy un apasionado de la tecnología, desde siempre, y por fin puedo desarrollarme laboralmente en este sector. Estoy con muchas ganas de crear y solucionar problemas a través del código, tengo gran capacidad analítica y eficiencia en resolución de problemas. Acabo de finalizar mi **Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)** este **junio de 2025**, lo que me ha proporcionado una base sólida para iniciar mi carrera en el desarrollo de software.
 
@@ -17,7 +17,7 @@ https://strong-banoffee-037f7b.netlify.app/
 
 ---
 
-### <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Mis Habilidades y Herramientas
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdib21ybmx6bGtxYXNzd3Q5YmdvYXl6YWoxOWlubThrZDZ3YnFiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ltyGw5fmC0b6SW03w6/giphy.gif" width="50px" height="50px"></img> Mis Habilidades y Herramientas
 
 Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy familiarizado:
 
@@ -69,7 +69,7 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
 
 ---
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Mis proyectos</b>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"><b> Mis proyectos</b>
 
 Aquí podrás explorar algunos de mis proyectos personales y académicos. Son una muestra de lo que he estado aprendiendo y creando. ¡Echa un vistazo a mis repositorios!
 
