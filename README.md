@@ -69,7 +69,7 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
 
 ---
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"><b> Mis proyectos</b>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"><b> Mis proyectos</b>
 
 Aquí podrás explorar algunos de mis proyectos personales y académicos. Son una muestra de lo que he estado aprendiendo y creando. ¡Echa un vistazo a mis repositorios!
 
