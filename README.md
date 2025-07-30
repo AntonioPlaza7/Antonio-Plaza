@@ -87,7 +87,7 @@ Aquí podrás explorar algunos de mis proyectos personales y académicos. Son un
 
 ---
 
-<img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> **Conectemos:**
+### <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"><b>**Conectemos:**</b>
 
 Siempre estoy abierto a nuevas conexiones y oportunidades. No dudes en contactarme:
 
