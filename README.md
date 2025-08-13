@@ -23,6 +23,7 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
 
 #### 📊 Lenguajes y Bases de Datos
 * **Lenguajes:**
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -56,7 +57,7 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-* **Metodologías Ágiles:** Scrum    
+* **Metodologías Ágiles:**    
 ![Scrum](https://img.shields.io/badge/Scrum-007396?style=for-the-badge&logoColor=white)
 
 #### 🐧 Sistemas Operativos
