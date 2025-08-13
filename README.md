@@ -75,7 +75,7 @@ Aquí podrás explorar algunos de mis proyectos personales y académicos. Son un
 
 * **TFG DAM (C#, Avalonia, SQLite):** [Mi Proyecto de Fin de Grado (TFG)](https://github.com/AntonioPlaza7/TFG)
 * **Prácticas de empresa en CodeArts Solutions (C#, Unity):** [Proyectos de Prácticas](https://github.com/AntonioPlaza7/Practicas-CodeArts-Solutions)
-* **Mi Porfolio Web:** https://github.com/AntonioPlaza7/porfolio.dev
+* **Mi Porfolio Web Personal:** [Porfolio web](https://github.com/AntonioPlaza7/porfolio.dev)
 
 #### Proyectos Académicos DAM:
 
