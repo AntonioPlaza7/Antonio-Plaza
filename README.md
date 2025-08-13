@@ -3,7 +3,7 @@
 <picture> <align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" width = 250px></picture>
 
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRhMnk2ejZnYWhhMjZrMG50NmM2c2JyaDV5aHViemV0eHBsZ3dpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="60px" height="50px"></img> Desarrollador de Software | Técnico Superior en DAM
+### Desarrollador de Software | Técnico Superior en DAM
 
 ¡Bienvenido/a a mi rincón digital en GitHub! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw2MDEwNnlhczBicXk1NWJ2Y2lzbmdzYjNjeHFqbXUxYjdobWJybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="15px" height="50px"></img>
 
