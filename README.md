@@ -62,8 +62,6 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
   
     ![Odoo](https://img.shields.io/badge/Odoo-7C235A?style=for-the-badge&logo=odoo&logoColor=white)
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose Badge">
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge">
   <img src="https://img.shields.io/badge/Zipkin-4E387C?style=for-the-badge&logo=zipkin&logoColor=white" alt="Zipkin Badge">
 
