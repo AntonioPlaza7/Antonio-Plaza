@@ -43,6 +43,9 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
     ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
     ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
     ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge">
+  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud Badge">
+  <img src="https://img.shields.io/badge/Netflix%20OSS-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix OSS Badge">
   
 * **Entornos/IDEs:**
 
@@ -50,11 +53,19 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
     ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
     ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+* **Testing y Cliente API:**
+  
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge">
   
 * **Otros:**
   
     ![Odoo](https://img.shields.io/badge/Odoo-7C235A?style=for-the-badge&logo=odoo&logoColor=white)
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose Badge">
+  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge">
+  <img src="https://img.shields.io/badge/Zipkin-4E387C?style=for-the-badge&logo=zipkin&logoColor=white" alt="Zipkin Badge">
 
 #### ⚙️ Control de Versiones y Metodología
 * **Control de Versiones:**
