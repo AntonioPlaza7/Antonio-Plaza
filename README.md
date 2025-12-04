@@ -80,6 +80,7 @@ Aquí podrás explorar algunos de mis proyectos personales y académicos. Son un
 * **TFG DAM (C#, Avalonia, SQLite):** [Mi Proyecto de Fin de Grado (TFG)](https://github.com/AntonioPlaza7/TFG)
 * **Prácticas de empresa en CodeArts Solutions (C#, Unity):** [Proyectos de Prácticas](https://github.com/AntonioPlaza7/Practicas-CodeArts-Solutions)
 * **Mi Porfolio Web Personal:** [Porfolio web](https://github.com/AntonioPlaza7/porfolio.dev)
+* **Proyecto curso Udemy sobre Microservicios Spring-Boot, Spring-Cloud-Netflix-Eureka-2025 (Java):** [Proyecto de Microservicios](https://github.com/AntonioPlaza7/Microservicios-Spring-Boot-Spring-Cloud-Netflix-Eureka-2025)
 
 #### Proyectos Académicos DAM:
 
