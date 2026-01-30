@@ -7,9 +7,7 @@
 
 ¡Bienvenido/a a mi rincón digital en GitHub! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw2MDEwNnlhczBicXk1NWJ2Y2lzbmdzYjNjeHFqbXUxYjdobWJybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="15px" height="50px"></img>
 
-Hola, soy Antonio Plaza.
-
-Profesional con perfil híbrido entre banca, análisis de fraude y desarrollo de software, con más de 7 años de experiencia en el sector financiero (BBVA) y formación técnica como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.Especializado en entornos críticos, gestión de incidencias, prevención del fraude y atención al cliente financiero, con evolución hacia el desarrollo backend en Java/Spring, microservicios y seguridad de aplicaciones.
+Soy un profesional con perfil híbrido entre banca, análisis de fraude y desarrollo de software, con más de 7 años de experiencia en el sector financiero (BBVA) y formación técnica como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.Especializado en entornos críticos, gestión de incidencias, prevención del fraude y atención al cliente financiero, con evolución hacia el desarrollo backend en Java/Spring, microservicios y seguridad de aplicaciones.
 
 Aporto una visión integral negocio–tecnología, capaz de traducir riesgos operativos y económicos en soluciones técnicas eficientes, orientadas a la optimización de procesos, seguridad y experiencia de usuario.
 
