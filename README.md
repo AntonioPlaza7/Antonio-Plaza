@@ -3,7 +3,7 @@
 <picture> <align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" width = 250px></picture>
 
 
-### Desarrollador de Software | Técnico Superior en DAM
+### Desarrollador de Software | Técnico Superior en DAM | Graduado en ADE | Especialista en Fraude Bancario y Fintech
 
 ¡Bienvenido/a a mi rincón digital en GitHub! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw2MDEwNnlhczBicXk1NWJ2Y2lzbmdzYjNjeHFqbXUxYjdobWJybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="15px" height="50px"></img>
 
