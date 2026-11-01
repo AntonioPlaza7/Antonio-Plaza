@@ -54,9 +54,11 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
 * **Entornos/IDEs:**
 
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+    ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
     ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
     ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+    ![SQL Developer](https://img.shields.io/badge/SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 * **Testing y Cliente API:**
   
@@ -69,6 +71,8 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge">
   <img src="https://img.shields.io/badge/Zipkin-4E387C?style=for-the-badge&logo=zipkin&logoColor=white" alt="Zipkin Badge">
   ![Unix](https://img.shields.io/badge/Unix-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
+  ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
+  ![PuTTY](https://img.shields.io/badge/PuTTY-005B9A?style=for-the-badge&logo=putty&logoColor=white)
 
 #### ⚙️ Control de Versiones y Metodología
 * **Control de Versiones:**
