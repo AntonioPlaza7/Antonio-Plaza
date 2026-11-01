@@ -32,12 +32,14 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
     ![XML](https://img.shields.io/badge/XML-000?style=for-the-badge&logo=html5&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 * **Bases de Datos:**
   
     ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
     ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+    ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 #### 🛠️ Frameworks y Herramientas de Desarrollo
 * **Desarrollo UI/UX:**
@@ -66,6 +68,7 @@ Aquí te dejo un vistazo a las tecnologías con las que he trabajado y estoy fam
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge">
   <img src="https://img.shields.io/badge/Zipkin-4E387C?style=for-the-badge&logo=zipkin&logoColor=white" alt="Zipkin Badge">
+  ![Unix](https://img.shields.io/badge/Unix-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
 
 #### ⚙️ Control de Versiones y Metodología
 * **Control de Versiones:**
