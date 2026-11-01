@@ -3,13 +3,15 @@
 <picture> <align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" width = 250px></picture>
 
 
-### Desarrollador de Software | Graduado en ADE | Especialista en Fraude Bancario y Fintech
+### Desarrollador de Software | Graduado en ADE | Especialista en Medios de Pago, Fraude Bancario & Fintech
 
 ¡Bienvenido/a a mi rincón digital en GitHub! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw2MDEwNnlhczBicXk1NWJ2Y2lzbmdzYjNjeHFqbXUxYjdobWJybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="15px" height="50px"></img>
 
-Soy un profesional con perfil híbrido entre banca, análisis de fraude y desarrollo de software, con más de 7 años de experiencia en el sector financiero (BBVA) y formación técnica como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Especializado en entornos críticos, gestión de incidencias, prevención del fraude y atención al cliente financiero, con evolución hacia el desarrollo backend en Java/Spring, microservicios y seguridad de aplicaciones.
+Soy un profesional con perfil híbrido entre banca, gestión operativa y desarrollo de software, con más de 7 años de experiencia en el sector financiero (BBVA) y formación técnica como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-Aporto una visión integral negocio–tecnología, capaz de traducir riesgos operativos y económicos en soluciones técnicas eficientes, orientadas a la optimización de procesos, seguridad y experiencia de usuario.
+Actualmente me desempeño como Consultor de Sistemas de Pago Internacionales y Gestión de BB.DD. para el Grupo Indra, donde combino la administración de bases de datos (Oracle/SQL), automatización en Unix/Python y la supervisión de procesos críticos de negocio con el desarrollo backend (Java, Spring Boot, arquitectura de microservicios) y la seguridad informáticā.
+
+Aporto una visión integral negocio–tecnología, capaz de traducir riesgos operativos y económicos en soluciones técnicas eficientes, orientadas a la optimización de procesos, la seguridad en pasarelas de pago y la experiencia de usuario.
 
 Mi Porfolio Web:
 
